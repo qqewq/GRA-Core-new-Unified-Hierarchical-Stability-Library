@@ -1,3 +1,6 @@
+https://orcid.org/my-orcid?orcid=0009-0004-1872-1153
+https://doi.org/10.5281/zenodo.20571650
+-----------
 # GRA-Core-new: Unified Hierarchical Stability Library
 
 Полная production-ready реализация методологии GRA (Gödel-Reductio ad Absurdum), вобравшая **103 исследовательских проекта** из экосистемы `qqewq`.
