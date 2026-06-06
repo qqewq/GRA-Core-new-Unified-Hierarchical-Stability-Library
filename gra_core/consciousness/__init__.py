@@ -1,0 +1,1 @@
+from .eternal import EternalConsciousness
